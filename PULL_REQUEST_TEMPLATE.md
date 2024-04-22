@@ -43,6 +43,15 @@ I have performed other verifications:
 
 ## Checklist:
 
+<!--
+This checklist is primarily for you, the author of this PR, but it also helps the reviewers understand if anything is missing.
+We therefore follow the next rules:
+
+- Check every item that's completed
+- Any items that are pending should be unchecked, until they're done.
+- Any items that are not applicable to this PR should be removed so they don't create unnecessary questions
+-->
+
 - [ ] 🔗 I have linked this PR to a task in notion and relevant documentation
 - [ ] 🕶️ My code follows the style guidelines of this project
 - [ ] 🕵️ I have performed a self-review of my code
