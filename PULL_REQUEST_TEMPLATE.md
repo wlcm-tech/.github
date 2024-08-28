@@ -14,14 +14,6 @@ List any dependencies that are required for this change.
 - [ ] 💸 Refactoring / Tech Debt
 - [ ] 📝 This change requires a documentation update
 
-<!--
-Do you plan to create a new release from this change?
-If so, mention what version you plan to increment: major, minor or patch.
-Note that we follow semver rules for incrementing versions: https://semver.org
--->
-
-Merging this change will release next ...
-
 ## Test Plan
 
 <!-- 
@@ -35,10 +27,8 @@ I have added tests:
 - [ ] 🙆 Yes
 - [ ] 🙅 No, because ... <!-- add your explanation here -->
 - [ ] 🙋 No, because I need help with adding tests
-
-I have performed other verifications:
-
-- ...
+- [ ] 📝 I have performed other verifications:
+  - ...
 
 <!-- Describe how you tested your change and how the tests can be reproduced -->
 
